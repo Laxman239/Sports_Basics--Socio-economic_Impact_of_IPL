@@ -10,7 +10,7 @@ Business Basics, a leading business blogging company plans to release an edition
 
 The magazine aims to provide a balanced analysis of IPL's commercial success versus it's impact on public well-being.
 
-Linkedin Link - 
+Linkedin Link - https://www.linkedin.com/posts/laxman-raj-devulapalli_datascientist-python-codebasicsresumechallenge-activity-7332337265995616256-Fmck?utm_source=share&utm_medium=member_desktop&rcm=ACoAAENCym0B5EaarGjY4g1I89JK415QZpebPdo
 
 # Revenue Contribution by Partner Sponsors' - 2025
 ![image](https://github.com/user-attachments/assets/a55ba56a-b1ad-4cdb-aeac-4a0d361e7df9)
